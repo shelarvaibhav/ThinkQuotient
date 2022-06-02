@@ -1,0 +1,28 @@
+        FAN TESTING
+1.switch on the fan whether fan is switch on or not
+2.switch off the fan whether fan is switch off or not
+3.check fan is fitting in good manner or not 
+4.chek fan is good condition or not
+5.Check the type of fan – whether the fan is ceiling fan or table fan
+6.Check the minimum speed of the fan
+7.Check the voltage/power requirement of the fan
+
+
+
+REMOTE TESTING
+1.check remote is working or not
+2.check remote cell is avalible or not
+3.check remote button is properly work or not
+4.check remote company 
+5.Verify the functionality of power ON-OFF button.
+6.check remote all number is avalible or not
+7.Verify the weight of the remote control
+
+BOTTLE TESTING
+1.check bottle in good condition or not
+2.check size of bottle
+3.check bottle type its mettle or plastic
+4.check how many litters bottle are
+5.check its any hole in bottle or not
+6.check bottle cap is fit or not
+7.Check if the expiry date is clearly mentioned or not.
